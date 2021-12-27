@@ -4,5 +4,5 @@
 
 [![Auto commit](https://github.com/mazipan/auto-commit/workflows/Auto%20commit/badge.svg)](https://github.com/mazipan/auto-commit/actions?query=workflow%3A%22Auto+commit%22)
 
-© 2020 Crafted by Irfan Maulana
+© 2020 Crafted by Irfan Maulana, Copied by Me lol
 
