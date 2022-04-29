@@ -28,7 +28,6 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --global --add safe.directory /__w/mandaputtra/autocommit
           git config --local user.email "mandaputra8@gmail.com"
           git config --local user.name "mandaputtra"
           git add -A
