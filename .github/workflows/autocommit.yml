@@ -24,9 +24,7 @@ jobs:
           echo $d > LAST_UPDATED
 
       - name: Trust my directory
-        run: |
-          export GIT_CEILING_DIRECTORIES=/__w
-          git config --global --add safe.directory /github/workspace
+        run: git config --global --add safe.directory /github/workspace
           
       - name: Commit changes
         run: |
